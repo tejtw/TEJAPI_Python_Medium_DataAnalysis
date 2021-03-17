@@ -1,5 +1,5 @@
 # TEJ_API_Python_MediumWeek3
-Medium文章程式碼-Week 1 & Week2
+Medium文章程式碼-Week3
 
 ## 主題：Python_資料科學練功坊
 程式內容說明<br>
