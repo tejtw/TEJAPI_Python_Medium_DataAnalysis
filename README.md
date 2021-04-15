@@ -1,4 +1,4 @@
-# TEJ_API_Python_MediumWeek 3&4
+# TEJ_API_Python_MediumWeek 3&4&7
 Medium文章程式碼-Week3 & Week4
 
 ## 主題：Python_資料科學練功坊
@@ -8,6 +8,9 @@ Medium文章連結： https://medium.com/tej-api-金融資料分析/資料科學
 
 Week4：透過python來檢視付費資料與免費資料間的資料品質差異<br>
 Medium文章連結：https://medium.com/tej-api-金融資料分析/資料科學練功坊-二-垃圾進-垃圾出-44cb64f592e3<br>
+
+Week7：透過python來讓資料視覺化<br>
+Medium文章連結：<br>
 
 ## 備註
 資料庫使用：<br>
