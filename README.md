@@ -12,7 +12,12 @@ Medium文章連結：https://medium.com/tej-api-金融資料分析/資料科學�
 Week7：透過python來讓資料視覺化<br>
 Medium文章連結：https://medium.com/tej-api-金融資料分析/資料科學練功坊-三-matplotlib-ae068ad63fba<br>
 
+Week8：透過Python打造自己的金融儀錶板<br>
+Medium文章連結：https://medium.com/tej-api-金融資料分析/資料科學練功坊-四-客製化金融儀錶板-b6666e6a6f66<br>
+
 ## 備註
 資料庫使用：<br>
-TEJ E SHOP小資方案-證券交易資料表<br>
-TEJ E SHOP 斜槓方案-證券交易資料表
+TEJ E SHOP 斜槓方案-證券交易資料表<br>
+TEJ E SHOP 小資方案 證券屬性表(TWN/EWNPRCSTD)<br>
+TEJ E SHOP 小資方案 證券交易資料表(TWN/EWPRCD)<br>
+TEJ E SHOP 達人方案 三大法人資料(TWN/EWTINST1)
