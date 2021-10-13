@@ -15,6 +15,9 @@ Medium文章連結：https://medium.com/tej-api-金融資料分析/資料科學�
 Week8：透過Python打造自己的金融儀錶板<br>
 Medium文章連結：https://medium.com/tej-api-金融資料分析/資料科學練功坊-四-客製化金融儀錶板-b6666e6a6f66<br>
 
+資料科學6:利用XGBOOST預測報酬<br>
+Medium文章連結：待補上<br>
+
 ## 備註
 資料庫使用：<br>
 TEJ E SHOP 斜槓方案-證券交易資料表<br>
