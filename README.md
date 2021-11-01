@@ -16,6 +16,9 @@ Week8：透過Python打造自己的金融儀錶板<br>
 Medium文章連結：https://medium.com/tej-api-金融資料分析/資料科學練功坊-四-客製化金融儀錶板-b6666e6a6f66<br>
 
 資料科學6:利用XGBOOST預測報酬<br>
+Medium文章連結：https://medium.com/tej-api-金融資料分析/資料科學-六-xgboost-演算法預測報酬-下-2a7129ae3998<br>
+
+資料科學7:畫出公司雷達圖<br>
 Medium文章連結：待補上<br>
 
 ## 備註
