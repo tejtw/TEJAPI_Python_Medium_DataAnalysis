@@ -15,11 +15,17 @@ Medium文章連結：https://medium.com/tej-api-金融資料分析/資料科學�
 Week8：透過Python打造自己的金融儀錶板<br>
 Medium文章連結：https://medium.com/tej-api-金融資料分析/資料科學練功坊-四-客製化金融儀錶板-b6666e6a6f66<br>
 
-資料科學6:利用XGBOOST預測報酬<br>
+【資料科學(六)】利用XGBOOST預測報酬<br>
 Medium文章連結：https://medium.com/tej-api-金融資料分析/資料科學-六-xgboost-演算法預測報酬-下-2a7129ae3998<br>
 
-資料科學7:畫出公司雷達圖<br>
+【資料科學(七)】畫出公司雷達圖<br>
 Medium文章連結：https://medium.com/tej-api-金融資料分析/資料科學-七-建構公司儀表板-以雷達圖為例-e4af6bca3e88<br>
+
+【資料科學(九)】隨機森林演算法選股策略<br>
+Medium文章連結：https://medium.com/tej-api-金融資料分析/資料科學-九-隨機森林演算法選股策略-c0d816c90d9b<br>
+
+【資料科學(十)】ARIMA-GARCH模型(上)<br>
+Medium文章連結：https://medium.com/tej-api-金融資料分析/資料科學-十-arima-garch模型-上-4cf07dac75fd<br>
 
 ## 備註
 資料庫使用：<br>
