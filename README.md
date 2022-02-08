@@ -27,6 +27,9 @@ Medium文章連結：https://medium.com/tej-api-金融資料分析/資料科學-
 【資料科學(十)】ARIMA-GARCH模型(上)<br>
 Medium文章連結：https://medium.com/tej-api-金融資料分析/資料科學-十-arima-garch模型-上-4cf07dac75fd<br>
 
+【資料科學(十一)】ARIMA-GARCH模型(下)<br>
+Medium文章連結：https://medium.com/tej-api-金融資料分析/資料科學-十一-arima-garch模型-下-5ab2b49d17b0<br>
+
 ## 備註
 資料庫使用：<br>
 TEJ E SHOP 斜槓方案-證券交易資料表<br>
