@@ -13,8 +13,8 @@
 #下載資料
 import tejapi
 import pandas as pd
-tejapi.ApiConfig.api_base="http://10.10.10.66"
-tejapi.ApiConfig.api_key = "05ZW2W5YJP44b1qwosBAkBPc0llKXF"
+
+tejapi.ApiConfig.api_key = "Your Key"
 tejapi.ApiConfig.ignoretz = True
 coid = "0050"
 mdate = {'gte':'2011-01-01', 'lte':'2022-11-15'}
